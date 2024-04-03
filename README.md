@@ -65,4 +65,3 @@ Lab completed!
 
 Another straightforward lab. It was nice seeing another way of backing up data. You can never be too careful!
 
-This lab also wasn't bad. I think it was cool just watching the storage account pop up in the VM. Feels like magic when these computers talk sometimes. It was nice to finally get my hands on SAS technology. I feel like I see SAS tokens all the time but have never worked with them. Anyway, cool.  
